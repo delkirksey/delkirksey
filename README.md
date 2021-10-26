@@ -2,7 +2,6 @@
 👀  &nbsp;&nbsp;I’m interested in data engineering, data science, microservices, and a bit of web development. <br/>
 🌱  &nbsp;&nbsp;I’m currently learning Tensorflow. <br/>
 💞️  &nbsp;&nbsp;I’m looking to collaborate on any open-source (or personal) Python projects. <br/>
-📫  &nbsp;&nbsp;How to reach me: @delkirksey on Twitter
 
 <!---
 delkirksey/delkirksey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
