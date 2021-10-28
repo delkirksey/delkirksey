@@ -1,6 +1,6 @@
 👋🏿  &nbsp;&nbsp;What's up, I’m @delkirksey (or Del) <br/>
 💡  &nbsp;&nbsp;I’m interested in data engineering, data science, microservices, and a bit of web development. <br/>
-🌱  &nbsp;&nbsp;I’m currently learning Tensorflow. <br/>
+🌱  &nbsp;&nbsp;I’m currently learning Spring & Tensorflow. <br/>
 💞️  &nbsp;&nbsp;I’m looking to collaborate on any open-source (or personal) Python projects. <br/>
 
 <!---
